@@ -1,6 +1,6 @@
 {
-  "name": "next-demo",
-  "version": "0.1.0",
+  "name": "coder-assessment-react",
+  "version": "1.0.01",
   "private": true,
   "scripts": {
     "dev": "next dev",
