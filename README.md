@@ -10,7 +10,7 @@ Start the project with `npm run dev`
 
 1. Create a `<AsyncPerson />` component
 
-   - The component should take an `id` as a prop and call the api https://swapi.co/api/people/{id}/?format=json
+   - The component should take an `id` as a prop and call the api https://swapi.dev/api/people/{id}/?format=json
    - The component should be a render-props, higher-order component, or a hook. What are the pros/cons of the method you choose?
    - The component should display "Loading" during the API call.
 

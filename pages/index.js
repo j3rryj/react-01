@@ -2,7 +2,7 @@ import React from "react";
 import Head from "next/head";
 import Person from "../components/Person";
 
-// https://swapi.co/api/people/1/?format=json
+// https://swapi.dev/api/people/1/?format=json
 
 const Home = () => (
   <div>
